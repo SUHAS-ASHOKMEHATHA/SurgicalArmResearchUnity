@@ -1,0 +1,22 @@
+# The Unity scene and imported assets in this local project depend on third-party work.
+# Publish only the independently authored research code until reuse rights are clear.
+/Assets/
+/Packages/
+/ProjectSettings/
+/Library/
+/Logs/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/UserSettings/
+*.csproj
+*.sln
+*.slnx
+*.user
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+/ResearchResults/
+/VlmResults/
